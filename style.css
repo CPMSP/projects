@@ -83,3 +83,7 @@ section > .liveLink {
 section > .code {
 	margin: 1rem;
 }
+
+h4 {
+	font-size: 1.25rem;
+}
